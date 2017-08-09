@@ -1,0 +1,19 @@
+.col-with-nopadding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.container-fluid-padding {
+    padding-left: 42.5px;
+    padding-right: 42.5px;
+}
+
+table th {
+    white-space: nowrap;
+}
+
+.contest {}
+
+.navbar-white {
+    background-color: azure;
+}
